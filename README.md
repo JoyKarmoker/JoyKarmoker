@@ -24,7 +24,7 @@
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<img height="290px" width="300px" src="Languages.png"/>
+	<img height="280px" width="280px" src="Languages.png"/>
 </p>
 
 
