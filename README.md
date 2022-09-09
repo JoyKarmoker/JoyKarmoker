@@ -24,6 +24,6 @@
 
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark" alt="joykarmoker" />
-	<img height="225px" width="300px" src="programmer.gif"/>
+	<img height="225px" width="300px" src="robot.gif"/>
 <p align="center">
 
