@@ -12,11 +12,14 @@
 
 <p align="center">
   <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoyKarmoker&show_icons=true&theme=github_dark&hide_border=true&count_private=true&custom_title=My%20Track%20Record📊"/>
-  <img height="195px" width="260px" src="programmer.gif"/>
+  <img height="225px" width="300px" src="programmer.gif"/>
 </p>
 
 
 <p align="center">
-	<img height = "200px" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&hide_border=true&langs_count=6&custom_title=Most%20Used💻"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark&hide_border=true" width="380px" height="210px" alt="joykarmoker" />
+	<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&hide_border=true&langs_count=6&custom_title=Most%20Used💻"/>
 </p>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark&hide_border=true" alt="joykarmoker" />
+<p align="center">
+
