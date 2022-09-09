@@ -18,5 +18,5 @@
 
 <p align="center">
 	<img align = "left" height = "200px" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&hide_border=true&langs_count=6&custom_title=Most%20Used💻"/>
-	<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark" width="300px" alt="joykarmoker" />
+	<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark" width="500px" alt="joykarmoker" />
 </p>
