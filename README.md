@@ -12,7 +12,7 @@
 
 <p align="center">
   <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoyKarmoker&show_icons=true&theme=github_dark&hide_border=true&count_private=true&custom_title=My%20Track%20Record📊"/>
-  <img height="210px" width="280px" src="programmer.gif"/>
+  <img height="195px" width="260px" src="programmer.gif"/>
 </p>
 
 
