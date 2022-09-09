@@ -20,12 +20,12 @@
 <br/>
 <br/>
 <p align="center">
-	<img width = "500px"  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=4&custom_title=Most%20Used💻"/>
+	<img  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=4&custom_title=Most%20Used💻"/>
 	<img height="250px" width="250px" src="Languages.png"/>
 </p>
 
 
-<p align="center" class="mb-6">
+<p align="center">
 	<img width = "500px" alt = "Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark" alt="joykarmoker" />
 	<img width = "300px" height="290px" src="robot.gif"/>
 </p>
