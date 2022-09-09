@@ -18,8 +18,10 @@
 
 <p align="center">
 	<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=10&custom_title=Most%20Used💻"/>
+	<img height="225px" width="300px" src="programmer.gif"/>
 </p>
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joykarmoker&theme=github-dark" alt="joykarmoker" />
+	<img height="225px" width="300px" src="programmer.gif"/>
 <p align="center">
 
