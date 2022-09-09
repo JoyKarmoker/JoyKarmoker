@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Banner" src="CropBanner.gif" />
+  <img alt="Banner" src="JoyKarmokerBanner.gif" />
 </div>
 
 <p>
