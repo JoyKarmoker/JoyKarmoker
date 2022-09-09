@@ -22,7 +22,7 @@
 <p align="center">
 	<img width = "400px"  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=6&custom_title=Most%20Used💻"/>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-	<img height="260px" width="260px" src="Languages.png"/>
+	<img height="220px" width="220px" src="Languages.png"/>
 </p>
 
 
