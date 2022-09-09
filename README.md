@@ -16,9 +16,11 @@
 </p>
 
 
-<p align="center">
+<p align="center" margin>
+	<pre>
 	<img width = "500px"  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=4&custom_title=Most%20Used💻"/>
 	<img height="225px" width="300px" src="programmer.gif"/>
+</pre>
 </p>
 
 
