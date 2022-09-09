@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img width="500px"alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoyKarmoker&show_icons=true&theme=github_dark&count_private=true&custom_title=My%20Track%20Record📊"/>
+  <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoyKarmoker&show_icons=true&theme=github_dark&count_private=true&custom_title=My%20Track%20Record📊"/>
   <img height="225px" width="300px" src="programmer.gif"/>
 </p>
 
