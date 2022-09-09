@@ -1,9 +1,3 @@
-<style text="css">
-.mb-6 {
-  margin-top: 400px;
-}
-</style>
-
 <div align="center">
   <img alt="Banner" src="JoyKarmokerBanner.gif" />
 </div>
@@ -22,7 +16,11 @@
 </p>
 
 
-<p align="center" class="mb-6">>
+<br/>
+<br/>
+<br/>
+<p align="center">
+
 	<img width = "500px"  alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyKarmoker&theme=github_dark&layout=compact&langs_count=4&custom_title=Most%20Used💻"/>
 	<img height="225px" width="300px" src="programmer.gif"/>
 </p>
